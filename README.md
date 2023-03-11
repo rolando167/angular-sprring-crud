@@ -41,3 +41,36 @@ https://tailwindtemplates.io/templates?category=login
 
 
 https://flowbite.com/blocks/
+
+
+====================================
+Guia Oficial
+https://tailwindcss.com/docs/guides/angular
+
+====================================
+
+>npm install -D tailwindcss postcss autoprefixer
+
+>npx tailwindcss init
+
+====================================
+
+Agregar en tailwind.config.js:
+
+module.exports = {
+  content: [
+    "./src/**/*.{html,ts}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+====================================
+Agregar en src/styles.css
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
