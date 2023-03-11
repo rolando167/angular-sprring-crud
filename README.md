@@ -27,3 +27,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+https://tailblocks.cc/
+https://mambaui.com/components/form
+https://pinegrow.com/docs/tailwind/tailwind-blocks/
+
+https://betterprogramming.pub/10-open-source-libraries-for-tailwind-css-components-fdbcb692afa9
+https://denic.hashnode.dev/tailwind-css-resources
+
+https://builtwithtailwind.com/site/mamba-ui
+
+https://tailwindtemplates.io/templates?category=login
+
+
+https://flowbite.com/blocks/
